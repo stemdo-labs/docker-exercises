@@ -1,0 +1,21 @@
+Ejercicio 1:
+
+1> docker pull ubuntu:20.04
+
+
+2> docker run -it --name alejandro-ubuntu ubuntu:20.04
+
+
+3> docker images
+
+
+4> docker ps -a
+
+
+5> docker run -it ubuntu:20.04 bash
+
+
+6> docker rm alejandro-ubuntu
+
+
+7> docker rmi ubuntu:20.04
